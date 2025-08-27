@@ -34,9 +34,7 @@ export default function ContactsSection() {
                 <div>
                   <h3 className="font-semibold text-lg mb-2">Телефон</h3>
                   <p className="text-gray-600">
-                    <a href="tel:+74951234567" className="hover:text-primary transition-colors">
-                      +7 (495) 123-45-67
-                    </a>
+                    <a href="tel:+74951234567" className="hover:text-primary transition-colors">+7 (495) 123-45-643</a>
                   </p>
                 </div>
               </div>
