@@ -29,7 +29,7 @@ export default function Header({ onSectionClick }: HeaderProps) {
         <div className="flex items-center justify-between">
           <div className="flex items-center space-x-2">
             <Icon name="Copy" className="w-8 h-8 text-primary" />
-            <span className="text-2xl font-bold text-primary font-display">КопиЦентр</span>
+            <span className="text-2xl font-bold text-primary font-display">Фото.Печать.Ксерокс</span>
           </div>
           
           {/* Desktop Menu */}
