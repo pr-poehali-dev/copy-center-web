@@ -81,7 +81,7 @@ export default function ContactsSection() {
             <div className="absolute bottom-4 left-4 bg-white/90 backdrop-blur-sm rounded-lg p-3 shadow-lg">
               <div className="flex items-center space-x-2">
                 <Icon name="MapPin" className="w-4 h-4 text-primary" />
-                <span className="text-sm font-medium text-gray-700">г. Москва, ул. Центральная, д. 15</span>
+                <span className="text-sm font-medium text-gray-700">г.Видное. ул. Радужная , 2</span>
               </div>
             </div>
           </div>
